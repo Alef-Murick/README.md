@@ -13,3 +13,6 @@
 * <a href="https://github.com/Alef-Murick/online-store">Online store</a> - e-commerce application
 * <a href="https://github.com/Alef-Murick/recipes-app-project">Recipe App</a>
 * <a href="https://github.com/Alef-Murick/solar-system">Solar System</a> - Star Map application
+
+
+![Snake animation](https://github.com/alef-murick/alef-murick/blob/output/github-contribution-grid-snake.svg)
