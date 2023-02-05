@@ -3,7 +3,7 @@
  Sou paraibano, minha vida toda estive envolvido com tecnologia, e aprendi a programar graças à _[Trybe](https://www.betrybe.com/)_!
 
 ### Meus contantos
-<a href="mailto:alefmurick@hotmail.com"><img src="	https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="mailto:alefmurick@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 
 <a href="https://www.https://www.linkedin.com/in/alef-murick/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
