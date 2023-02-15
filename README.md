@@ -42,24 +42,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" heigth="40" /> 
       Docker
     </div>
-     ### Meus projetos favoritos
-     * <a href="https://github.com/Alef-Murick/music-app">Music App</a>
+    
+  ### Meus projetos favoritos
+   * <a href="https://github.com/Alef-Murick/music-app">Music App</a>
      * <a href="https://github.com/Alef-Murick/online-store">Online store</a> - e-commerce application
      * <a href="https://github.com/Alef-Murick/recipes-app-project">Recipe App</a>
      * <a href="https://github.com/Alef-Murick/solar-system">Solar System</a> - Star Map application     
+     * 
      ![Snake animation](https://github.com/Alef-Murick/Alef-Murick/blob/output/github-contribution-grid-snake.svg)     
-        <style type="text/css" />
-        div {
-          display: flex;
-          flex-flow: row wrap;
-          align-items: center;
-          margin: 0 auto;
-          width: 25%;
-          height: 100%;
-          border: 1px solid white;
-          border-radius: 3px;
-        }
-        img {
-          border-radius: 8px;
-          margin: auto;
-        }
