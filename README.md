@@ -7,15 +7,63 @@
 
 ### Frameworks que domino
 
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" heigth="40" /> HTML5
- </div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" heigth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" heigth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" heigth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" heigth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" heigth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="40" heigth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" heigth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" width="40" heigth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" heigth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" heigth="40" />
-
-### Meus projetos favoritos
-* <a href="https://github.com/Alef-Murick/music-app">Music App</a>
-* <a href="https://github.com/Alef-Murick/online-store">Online store</a> - e-commerce application
-* <a href="https://github.com/Alef-Murick/recipes-app-project">Recipe App</a>
-* <a href="https://github.com/Alef-Murick/solar-system">Solar System</a> - Star Map application
-
-![Snake animation](https://github.com/Alef-Murick/Alef-Murick/blob/output/github-contribution-grid-snake.svg)
+     <div>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" heigth="40" /> 
+     HTML5
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" heigth="40" /> 
+     CSS3
+    </div>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+      JavaScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" heigth="40" />
+      TypeScript
+    </div>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" heigth="40" /> 
+      React
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" heigth="40" />
+      nodeJS
+    </div>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" heigth="40" /> 
+      Jester
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="40" heigth="40" /> 
+      Mocha
+    </div>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" heigth="40" /> 
+      MySQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" heigth="40"  />
+      Sequelize
+    </div>
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" heigth="40" />
+      mongoDB
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" heigth="40" /> 
+      Docker
+    </div>
+     
+     ### Meus projetos favoritos
+     * <a href="https://github.com/Alef-Murick/music-app">Music App</a>
+     * <a href="https://github.com/Alef-Murick/online-store">Online store</a> - e-commerce application
+     * <a href="https://github.com/Alef-Murick/recipes-app-project">Recipe App</a>
+     * <a href="https://github.com/Alef-Murick/solar-system">Solar System</a> - Star Map application
+     
+     ![Snake animation](https://github.com/Alef-Murick/Alef-Murick/blob/output/github-contribution-grid-snake.svg)
+     
+        <style type="text/css" />
+        div {
+          display: flex;
+          flex-flow: row wrap;
+          align-items: center;
+          margin: 0 auto;
+          width: 25%;
+          height: 100%;
+          border: 1px solid white;
+          border-radius: 3px;
+        }
+        img {
+          border-radius: 8px;
+          margin: auto;
+        }
