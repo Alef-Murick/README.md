@@ -7,7 +7,10 @@
 
 ### Frameworks que domino
 <div>
-   <div>
+ <style>
+   <div {
+        border: 1px solid white;
+        }>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" heigth="40" /> 
      HTML5
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" heigth="40" /> 
@@ -18,7 +21,7 @@
       TypeScript
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" heigth="40" /> 
       React
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" heigth="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="40" heigth="40" />
       nodeJS
     </div>
     <div>
@@ -35,6 +38,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" heigth="40" /> 
       Docker
     </div>
+ </style>
  </div>
 
 ### Meus projetos favoritos
