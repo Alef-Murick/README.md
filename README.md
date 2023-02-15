@@ -7,7 +7,6 @@
 
 ### Frameworks que domino
 <div>
- <style>
    <div {
         border: 1px solid white;
         }>
@@ -38,7 +37,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" heigth="40" /> 
       Docker
     </div>
- </style>
  </div>
 
 ### Meus projetos favoritos
