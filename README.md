@@ -30,4 +30,12 @@
 * <a href="https://github.com/Alef-Murick/recipes-app-project">Recipe App</a>
 * <a href="https://github.com/Alef-Murick/solar-system">Solar System</a> - Star Map application
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
 ![Snake animation](https://github.com/Alef-Murick/Alef-Murick/blob/output/github-contribution-grid-snake.svg)
